@@ -10,8 +10,8 @@ I am going to make a simple choose your own adventure game, hosted on a website.
 
 
 # Timeline Goals
-Nov 7: Frontend and database initialized
-Nov 14: Frontend state code done
-Nov 21: Supabase online
-Nov 28: Auth done
-Dec 5: Saving done
+- Nov 7: Frontend and database initialized
+- Nov 14: Frontend state code done
+- Nov 21: Supabase online
+- Nov 28: Auth done
+- Dec 5: Saving done
