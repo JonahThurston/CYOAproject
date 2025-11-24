@@ -5,3 +5,5 @@
 | 11/14/2025  | front end state debugging | 3   |
 | 11/17/2025  | firebase is killing me slowly and painfully | 3   |
 | 11/20/2025  | firebase finally doing, start on supabase | 4   |
+| 11/24/2025  | touching up text, preparing for presentation | 1   |
+| 11/24/2025  | reading docs and deciding to do firestore | 1   |
