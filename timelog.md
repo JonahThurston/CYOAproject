@@ -7,3 +7,4 @@
 | 11/20/2025  | firebase finally doing, start on supabase | 4   |
 | 11/24/2025  | touching up text, preparing for presentation | 1   |
 | 11/24/2025  | reading docs and deciding to do firestore | 1   |
+| 12/1/2025   | FIRESTORE WORKING I HAVE A FUNCTIONAL DB | 5   |
