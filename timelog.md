@@ -8,3 +8,4 @@
 | 11/24/2025  | touching up text, preparing for presentation | 1   |
 | 11/24/2025  | reading docs and deciding to do firestore | 1   |
 | 12/1/2025   | FIRESTORE WORKING I HAVE A FUNCTIONAL DB | 5   |
+| 12/2/2025   | im sobbing why is firestore not letting me put in data | 2   |
