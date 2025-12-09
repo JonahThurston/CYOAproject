@@ -10,3 +10,4 @@
 | 12/1/2025   | FIRESTORE WORKING I HAVE A FUNCTIONAL DB | 5   |
 | 12/2/2025   | im sobbing why is firestore not letting me put in data | 2   |
 | 12/8/2025   | Yay I was able to put in the prologue!!! | 3   |
+| 12/9/2025   | Write up final report | 2   |
